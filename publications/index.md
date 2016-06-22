@@ -18,6 +18,7 @@ permalink: /publications/
    *RSC: Mining and Modeling Temporal Activity in Social Media*,
    in International Conference on Knowledge Discovery and Data Mining, 2015, pp. 269–278.
     [\[paper\]](/assets/papers/Costa_KDD_2015.pdf)
+    [\[code/data\]](https://github.com/alceufc/rsc_model)
 
  - **A. F. Costa**, A. J. M. Traina, and C. Traina Jr.,
    *MFS-Map: efficient context and content combination to annotate images*,
@@ -28,6 +29,7 @@ permalink: /publications/
    *An Efficient Algorithm for Fractal Analysis of Textures*,
    in Conference on Graphics, Patterns and Images (SIBGRAPI), 2012, pp. 39–46.
     [\[paper\]](/assets/papers/Costa_SIBGRAPI_2012.pdf)
+    [\[code\]](https://www.mathworks.com/matlabcentral/fileexchange/37933-alceufc-sfta)
 
  - **A. F. Costa**, J. Tekli, and A. J. M. Traina,
    *Fast Fractal Stack: Fractal Analysis of Computed Tomography Scans of the Lung*,

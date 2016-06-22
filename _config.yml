@@ -9,7 +9,7 @@
 title: Alceu Ferraz Costa
 email: alceufc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal web site by Alceu Ferraz Costa, PhD candidate in Computer Science.
+  Alceu Ferraz Costa, PhD candidate in Computer Science.
   Working with data mining techniques to model user behavior and information
   cascades on social media.
 baseurl: "" # the subpath of your site, e.g. /blog
