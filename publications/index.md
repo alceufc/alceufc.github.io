@@ -4,6 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
+[\[Google Scholar\]](https://scholar.google.com/citations?user=41raq5UAAAAJ)
+[\[DBLP\]](http://dblp.uni-trier.de/pers/hd/c/Costa:Alceu_Ferraz)
+
+
+- **A. F. Costa**, A. J. M. Traina, C. Traina Jr., and C. Faloutsos,
+  *Vote-and-Comment: Modeling the Coevolution of User Interactions in Social Voting Web Sites*,
+  in IEEE ICDM, 2016, pp. 1-10 (*to appear*).
+    [\[paper\]](/assets/papers/Costa_ICDM_2016.pdf)
+
  - M. T. Cazzolato, M. V. N. Bedo, **A. F. Costa**, J. A. de Souza, C. Traina Jr., and A. J. M. Traina,
   *Unveiling smoke in social images with the SmokeBlock approach*,
   in ACM SAC, 2016, pp. 49–54.

@@ -241,12 +241,19 @@
     }
 }
 
+.clearfix {
+    overflow: auto;
+}
+
 .profilepic {
+    overflow: auto;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     padding: $spacing-unit 0;
     img {
-        max-width: 30%;
+        float: left;
+        padding-right: 4%;
+        max-width: 20%;
         background-repeat: no-repeat;
         background-position: 50%;
         border-radius: 50%;
