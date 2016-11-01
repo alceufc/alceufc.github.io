@@ -241,10 +241,6 @@
     }
 }
 
-.clearfix {
-    overflow: auto;
-}
-
 .profilepic {
     overflow: auto;
     margin: 0 auto;
@@ -257,5 +253,23 @@
         background-repeat: no-repeat;
         background-position: 50%;
         border-radius: 50%;
+    }
+}
+
+.postfigure {
+    table {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .figimage {
+        text-align: center;
+    }
+
+    .figcaption {
+        padding: 1.0em;
+        text-align: left;
+        font-style: italic;
+        color: #777;
     }
 }

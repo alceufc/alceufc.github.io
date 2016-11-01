@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Posts
+permalink: /posts/
 ---
 
 <div class="home">
@@ -14,10 +16,10 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+          {{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
+
