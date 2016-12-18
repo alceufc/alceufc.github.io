@@ -12,6 +12,8 @@ permalink: /publications/
   *Vote-and-Comment: Modeling the Coevolution of User Interactions in Social Voting Web Sites*,
   in IEEE ICDM, 2016, pp. 1-10 (*to appear*).
     [\[paper\]](/assets/papers/Costa_ICDM_2016.pdf)
+    [\[presentation\]](/assets/presentations/ICDM_2016.pdf)
+    [\[code/data\]](https://github.com/alceufc/vnc_model)
 
  - M. T. Cazzolato, M. V. N. Bedo, **A. F. Costa**, J. A. de Souza, C. Traina Jr., and A. J. M. Traina,
   *Unveiling smoke in social images with the SmokeBlock approach*,
