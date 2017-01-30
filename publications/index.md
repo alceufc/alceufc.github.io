@@ -7,10 +7,14 @@ permalink: /publications/
 [\[Google Scholar\]](https://scholar.google.com/citations?user=41raq5UAAAAJ)
 [\[DBLP\]](http://dblp.uni-trier.de/pers/hd/c/Costa:Alceu_Ferraz)
 
+- D. Y. T. Chino, **A. F. Costa**, A. J. M. Traina and C. Faloutsos,
+  *VolTime: Unsupervised Anomaly Detection on Users’ Online Activity Volume*,
+  in SIAM Conference on Data Mining (SDM), 2017, pp. 1-10 (*to appear*).
+    [\[paper\]](/assets/papers/Chino_SDM_2016.pdf)
 
 - **A. F. Costa**, A. J. M. Traina, C. Traina Jr., and C. Faloutsos,
   *Vote-and-Comment: Modeling the Coevolution of User Interactions in Social Voting Web Sites*,
-  in IEEE ICDM, 2016, pp. 1-10 (*to appear*).
+  in IEEE ICDM, 2016, pp. 91-100 (*to appear*).
     [\[paper\]](/assets/papers/Costa_ICDM_2016.pdf)
     [\[presentation\]](/assets/presentations/ICDM_2016.pdf)
     [\[code/data\]](https://github.com/alceufc/vnc_model)
